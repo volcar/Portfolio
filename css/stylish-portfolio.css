@@ -212,17 +212,17 @@ hr.small {
 
 /* Call to Action */
 
-.call-to-action {
+/*.call-to-action {
     padding: 50px 0;
 }
 
 .call-to-action .btn {
     margin: 10px;
-}
+}*/
 
 /* Map */
 
-.map {
+/*.map {
     height: 500px;
 }
 
@@ -235,7 +235,7 @@ hr.small {
 .map iframe {
     pointer-events: none;
 }
-
+*/
 /* Footer */
 
 footer {
